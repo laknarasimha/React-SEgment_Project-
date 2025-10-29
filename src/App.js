@@ -5,7 +5,7 @@ import React, { useState, useMemo } from "react";
  * Replace these with your actual URLs:
  */
 const WEBHOOK_URL = "https://webhook.site/your-uuid-here"; // <-- put your webhook.site URL here
-const GITHUB_REPO_URL = "https://github.com/your-user/your-repo"; // <-- put your GitHub repo URL here
+const GITHUB_REPO_URL = "https://github.com/laknarasimha/React-SEgment_Project-"; // <-- put your GitHub repo URL here
 
 const ALL_OPTIONS = [
   { label: "First Name", value: "first_name" },
